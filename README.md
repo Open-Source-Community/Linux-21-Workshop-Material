@@ -21,3 +21,9 @@ _________________
 
 #### Part 2: [Using man and info, Managing Directories and Files, Links](Session-2/Part-1)
 _________________
+
+### Session 3
+
+#### Part 1: [File and Text Manipulation, IO Redirection, File Permissions](Session-3/Part-1)
+
+#### Part 2: [Users and Groups, Package Managers, Managing Processes and Services](Session-3/Part-2)
