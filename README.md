@@ -27,3 +27,10 @@ _________________
 #### Part 1: [File and Text Manipulation, IO Redirection, File Permissions](Session-3/Part-1)
 
 #### Part 2: [Users and Groups, Package Managers, Managing Processes and Services](Session-3/Part-2)
+_________________
+
+### Session 4
+
+#### Part 1: [How the internet works](Session-4/Part-1)
+
+#### Part 2: [SSH](Session-4/Part-2)
